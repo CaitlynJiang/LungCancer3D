@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="LungCancer3D:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/LungCancer3D_war</output-path>
+    <root id="archive" name="LungCancer3D_war.war">
+      <element id="artifact" artifact-name="LungCancer3D:war exploded" />
+    </root>
+  </artifact>
+</component>

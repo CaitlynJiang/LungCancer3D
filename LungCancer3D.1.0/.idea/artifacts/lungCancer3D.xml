@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lungCancer3D">
+    <output-path>$PROJECT_DIR$/out/artifacts/lungCancer3D</output-path>
+    <root id="archive" name="lungCancer3D.war" />
+  </artifact>
+</component>
